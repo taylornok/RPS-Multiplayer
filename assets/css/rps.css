@@ -1,0 +1,21 @@
+/* nav {
+    align-content: center;
+    font-weight: bold;
+    font-size: large;
+    display: inline-block;
+} */
+
+
+
+body{
+    margin: 30px;
+    
+}
+
+nav {
+    margin-bottom: 10px;
+}
+form{
+    margin-bottom: 10px;
+    offset: 5%;
+}
